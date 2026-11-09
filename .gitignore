@@ -1,2 +1,6 @@
 .DS_Store
 /target/
+
+/Quick Translator/target/
+/Quick Translator/bin/
+/Quick Translator/dist/

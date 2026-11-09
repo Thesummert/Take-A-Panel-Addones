@@ -3,7 +3,7 @@
   "id": "quick-translator",
   "name": "Quick Translator",
   "keyword": "tr",
-  "executable": "../../target/debug/quick-translator",
+  "executable": "bin/quick-translator",
   "settings": [
     {
       "key": "source_language",
