@@ -1,0 +1,17 @@
+{
+  "api_version": 1,
+  "id": "web-search",
+  "name": "WebSearch",
+  "keyword": "web",
+  "executable": "bin/web-search",
+  "settings": [
+    {
+      "key": "engine",
+      "type": "choice",
+      "label": "搜索引擎",
+      "description": "使用系统默认浏览器打开搜索结果。",
+      "default": "Bing",
+      "options": ["Bing", "Google", "百度", "DuckDuckGo"]
+    }
+  ]
+}
